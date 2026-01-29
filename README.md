@@ -4,6 +4,9 @@
 #肥猫云（目前在用）
 https://web02.fatcatcloud.cc/dashboard
 
+#一元（超级便宜）
+https://xn--4gq62f52gdss.ink/#/plan
+
 #柚子兔
 https://yzt.lol/#/shop
 
