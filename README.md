@@ -15,3 +15,6 @@ https://ivt01.qytaff.cc/shop
 
 #大哥云
 https://aff02.dgy02.com/#/plan
+
+#mihomo
+https://github.com/MetaCubeX/mihomo/releases
